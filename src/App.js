@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <span>
-          This is an POC for test TravisCI + AWS S3 + Slack notification.
+          This is an POC for test TravisCI + AWS S3 + Slack notification
         </span>
       </header>
     </div>
