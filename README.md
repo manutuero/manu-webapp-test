@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TravisCI status
+[![Build Status](https://travis-ci.com/manutuero/manu-webapp-test.svg?branch=master)](https://travis-ci.com/manutuero/manu-webapp-test)
 
 ## Available Scripts
 
